@@ -1,2 +1,2 @@
 # AcademiaInfinity
-Pagina Web com Validação de Login e Cadastro utilizando Html, Css e JavaScript.
+Site de Academia feito com Html e Css puro.
